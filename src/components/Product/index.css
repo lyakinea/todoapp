@@ -1,0 +1,11 @@
+
+button {
+    color: white;
+    background-color: rgb(176, 144, 103);
+    margin-bottom: 5%;
+  }
+article {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
